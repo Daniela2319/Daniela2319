@@ -4,7 +4,7 @@
 
 **Desenvolvedora apaixonada por tecnologia, desafios e pela transformação através da programação!**
 
-[![Linkedin](https://img.shields.io/badge/DANIELA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-velter-231485f/)
+
 [![Github](https://img.shields.io/badge/DANIELA2319-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daniela2319)
 
 ![Daniela GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniela2319&show_icons=true&theme=radical)
@@ -34,5 +34,5 @@
 ### 🌟 Gratidão
 Gostaria de expressar minha gratidão a todas as pessoas que me ajudaram nesta jornada de aprendizado. Cada código e projeto são passos para alcançar meus sonhos na área de tecnologia!
 
-👥 **Conecte-se comigo no LinkedIn:** [Daniela Velter](https://www.linkedin.com/in/daniela-velter-231485f/)
+👥 **Conecte-se comigo no LinkedIn:** [Daniela Velter](https://www.linkedin.com/in/danielavelteredu/)
 
