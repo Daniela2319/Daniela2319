@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-# Dev Daniela Velter 👩‍💻
+# Dev Daniela Velter 
 
 **Desenvolvedora apaixonada por tecnologia, desafios e pela transformação através da programação!**
 
