@@ -36,3 +36,11 @@ Gostaria de expressar minha gratidão a todas as pessoas que me ajudaram nesta j
 
 👥 **Conecte-se comigo no LinkedIn:** [Daniela Velter](https://www.linkedin.com/in/danielavelteredu/)
 
+### 🛠️ Tecnologias que uso no meu dia a dia
+
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=Daniela2319&theme=dracula&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Daniela2319&theme=vue) 
+
+
