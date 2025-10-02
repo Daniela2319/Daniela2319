@@ -23,11 +23,7 @@
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-## 📚 Leitura Recomendada
 
-- [Java - Como Programar](https://ilustradev.com.br/melhores-livros-de-java/)
-- [Java Efetivo - As Melhores Práticas para Plataformas](https://ilustradev.com.br/melhores-livros-de-java/)
-- [Java Para Iniciantes](https://ilustradev.com.br/melhores-livros-de-java/)
 
 ---
 
