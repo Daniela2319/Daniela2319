@@ -2,7 +2,23 @@
 
 # Dev Daniela Velter 
 
-**Desenvolvedora apaixonada por tecnologia, desafios e pela transformação através da programação!**
+Minha jornada com a tecnologia começou cedo. Aos 14 anos, depois de muita insistência, consegui meu primeiro computador usado — um Windows 95, com uma impressora enorme. Para muitos, poderia ser apenas uma máquina simples. Para mim, foi a porta de entrada para o conhecimento.
+
+Minha trajetória profissional passou por outras áreas: atuei na soldagem e depois empreendi com pães artesanais. Essas experiências me trouxeram disciplina, visão de gestão e resiliência. Mas em 2022, influenciada pelo meu marido, redescobri a tecnologia e percebi que esse sempre foi meu verdadeiro caminho.
+
+Hoje, sou desenvolvedora apaixonada por resolver desafios com código. Meu foco está em:
+
+🐍 Python (Django)
+
+💻 C# (ASP.NET)
+
+🗄️ PostgreSQL, SQL Server e SQLite
+
+🐳 Docker & ⚙️ GitHub Actions
+
+🌐 JavaScript, HTML e CSS
+
+Quando programo, meu foco é total: gosto de transformar problemas em soluções criativas e escaláveis.
 
 
 [![Github](https://img.shields.io/badge/DANIELA2319-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daniela2319)
@@ -27,8 +43,10 @@
 
 ---
 
-### 🌟 Gratidão
-Gostaria de expressar minha gratidão a todas as pessoas que me ajudaram nesta jornada de aprendizado. Cada código e projeto são passos para alcançar meus sonhos na área de tecnologia!
+### 📌 Objetivo
+Atualmente, busco oportunidades para aplicar e expandir meus conhecimentos como Desenvolvedora Back-End / Full-Stack, contribuindo para projetos inovadores e de impacto.
+
+✨ Transformo desafios em combustível para crescer — e encontrei na tecnologia o lugar onde paixão e carreira se encontram.
 
 👥 **Conecte-se comigo no LinkedIn:** [Daniela Velter](https://www.linkedin.com/in/danielavelteredu/)
 
