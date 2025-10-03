@@ -6,17 +6,7 @@ Minha jornada com a tecnologia começou cedo. Aos 14 anos, depois de muita insis
 
 Minha trajetória profissional passou por outras áreas: atuei na soldagem e depois empreendi com pães artesanais. Essas experiências me trouxeram disciplina, visão de gestão e resiliência. Mas em 2022, influenciada pelo meu marido, redescobri a tecnologia e percebi que esse sempre foi meu verdadeiro caminho.
 
-Hoje, sou desenvolvedora apaixonada por resolver desafios com código. Meu foco está em:
-
-🐍 Python (Django)
-
-💻 C# (ASP.NET)
-
-🗄️ PostgreSQL, SQL Server e SQLite
-
-🐳 Docker & ⚙️ GitHub Actions
-
-🌐 JavaScript, HTML e CSS
+Hoje, sou desenvolvedora apaixonada por resolver desafios com código.
 
 Quando programo, meu foco é total: gosto de transformar problemas em soluções criativas e escaláveis.
 
