@@ -32,7 +32,7 @@
   Minha jornada começou aos 14 anos com um Windows 95 usado — minha porta de entrada para o mundo digital. Passei por áreas diversas como soldagem e panificação artesanal, que me ensinaram <strong>disciplina, gestão e resiliência</strong>. Em 2022, redescobri minha verdadeira paixão pela tecnologia e hoje me dedico inteiramente ao desenvolvimento de software, transformando problemas complexos em soluções criativas e escaláveis.
 </p>
 
----
+
 
 ## 🎯 Objetivo Atual
 
