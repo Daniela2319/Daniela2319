@@ -23,15 +23,10 @@
 
 </div>
 
----
+
 
 ## 🚀 Minha Jornada
 
-<div align="center">
-  
-![Linha do Tempo](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=800&lines=De+Windows+95+à+Desenvolvedora+Full-Stack;Soldagem+→+Panificação+→+Tecnologia;+Paixão+redescoberta+em+2022)
-
-</div>
 
 <p align="justify">
   Minha jornada começou aos 14 anos com um Windows 95 usado — minha porta de entrada para o mundo digital. Passei por áreas diversas como soldagem e panificação artesanal, que me ensinaram <strong>disciplina, gestão e resiliência</strong>. Em 2022, redescobri minha verdadeira paixão pela tecnologia e hoje me dedico inteiramente ao desenvolvimento de software, transformando problemas complexos em soluções criativas e escaláveis.
@@ -57,7 +52,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/REACT-1572B6?style=for-the-badge&logo=react&logoColor=white" alt="REACT"/>
+  <img src="https://img.shields.io/badge/TAILWINDCSS-1572B6?style=for-the-badge&logo=tailwindcss&logoColor=black" alt="TAILWINDCSS"/>
+  
 </div>
+
+
 
 ### 🗄️ Bancos de Dados
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
