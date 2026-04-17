@@ -43,6 +43,6 @@ Venho de uma trajetória fora da tecnologia, o que fortaleceu minha disciplina, 
 ## 📬 Vamos nos conectar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/danielavelteredu)
-- 📧 [Email](mailto:dani.edu.net@gmail.com)
+
 
 Estou aberta a oportunidades, colaborações e projetos onde eu possa crescer como desenvolvedora e gerar impacto real.
