@@ -6,7 +6,7 @@ Venho de uma trajetória fora da tecnologia, o que fortaleceu minha disciplina, 
 
 
 
-## 🚧 O que estou construindo
+## O que estou construindo
 
 - 📌 Sistema de agendamento com Django + Bootstrap, com autenticação e gestão de usuários  
 - 📌 Dashboard em React consumindo APIs reais, focado em organização e visualização de dados  
@@ -14,7 +14,7 @@ Venho de uma trajetória fora da tecnologia, o que fortaleceu minha disciplina, 
 
 
 
-## 🧠 Stack com contexto
+## Stack com contexto
 
 **Front-end**
 - HTML, CSS, JavaScript → base sólida para construção de interfaces responsivas e acessíveis  
@@ -22,8 +22,9 @@ Venho de uma trajetória fora da tecnologia, o que fortaleceu minha disciplina, 
 - Bootstrap → agilidade no desenvolvimento com foco em responsividade  
 
 **Back-end**
-- Python + Django → desenvolvimento de aplicações web completas com autenticação e regras de negócio  
-- C# → aplicação de conceitos de orientação a objetos e estruturação de sistemas  
+- C# + ASP.NET Core → desenvolvimento de APIs REST com autenticação e integração com banco de dados   
+- Entity Framework Core → integração com banco de dados, migrations e manipulação de dados via linha de comando  
+- Orientação a Objetos → estruturação de sistemas escaláveis e organizados    
 
 **Outros conhecimentos**
 - Consumo de APIs REST → integração entre front e back  
@@ -32,7 +33,7 @@ Venho de uma trajetória fora da tecnologia, o que fortaleceu minha disciplina, 
 
 
 
-## 🎯 O que você pode esperar de mim
+## O que você pode esperar de mim
 
 - Capacidade de aprender rápido e aplicar na prática  
 - Compromisso com evolução constante  
@@ -40,7 +41,7 @@ Venho de uma trajetória fora da tecnologia, o que fortaleceu minha disciplina, 
 
 
 
-## 📬 Vamos nos conectar
+## Vamos nos conectar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/danielavelteredu)
 
