@@ -19,7 +19,7 @@ Venho de uma trajetória fora da tecnologia, o que fortaleceu minha disciplina, 
 **Front-end**
 - HTML, CSS, JavaScript → base sólida para construção de interfaces responsivas e acessíveis  
 - React → criação de interfaces dinâmicas e componentizadas  
-- Bootstrap → agilidade no desenvolvimento com foco em responsividade  
+- TaiwindCSS → agilidade no desenvolvimento com foco em responsividade  
 
 **Back-end**
 - C# + ASP.NET Core → desenvolvimento de APIs REST com autenticação e integração com banco de dados   
